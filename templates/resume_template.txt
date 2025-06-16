@@ -1,0 +1,15 @@
+Name: {name}
+Email: {email}
+Phone: {phone}
+
+Professional Summary:
+{summary}
+
+Skills:
+{skills}
+
+Experience:
+{experience}
+
+Education:
+{education}
